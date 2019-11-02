@@ -1,0 +1,16 @@
+#elementoh1 {
+    background-color:red;
+    text-align: center;
+    color: white;
+    
+}
+.elementoh2 {
+    background-color: blue;
+    text-align: left;
+    color: white;
+}
+.elementoh3 {
+    background-color: green;
+    text-align: right;
+    color: white;
+}
